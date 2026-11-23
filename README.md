@@ -1,5 +1,5 @@
 <p align="center">
-  <h1 align="center">Rohith T. R.</h1>
+  <h1 align="center">Rohith T R</h1>
   <h3 align="center">Data Scientist · AI/ML Engineer · GenAI Developer</h3>
   <p align="center">Building intelligent systems with machine learning, computer vision, LLMs, and practical software engineering.</p>
   <p align="center">
