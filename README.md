@@ -10,7 +10,7 @@
 
 ---
 
-## `whoami`
+## `who am i`
 
 I'm a Data Scientist with a computer science background, interested in building useful AI-powered products and reliable software systems.
 
