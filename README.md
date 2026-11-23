@@ -1,16 +1,16 @@
 <p align="center">
-  <h1 align="center">Rohith T R</h1>
-  <h3 align="center">Data Scientist · AI/ML Engineer · GenAI Developer</h3>
-  <p align="center">Building intelligent systems with machine learning, computer vision, LLMs, and practical software engineering.</p>
-  <p align="center">
-    <a href="https://github.com/ROHITH0999"><img src="https://img.shields.io/badge/GitHub-ROHITH0999-181717?style=for-the-badge&logo=github" alt="GitHub"></a>
-    <a href="https://leetcode.com/u/rohith12234/"><img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"></a>
-  </p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=760&lines=Hi%2C+I'm+Rohith+T+R;Data+Scientist+%7C+AI%2FML+Engineer;Building+with+LLMs%2C+Vision+%26+GenAI;Turning+ideas+into+working+systems" alt="Animated introduction">
+</p>
+
+<p align="center">
+  <a href="https://github.com/ROHITH0999"><img src="https://img.shields.io/badge/GitHub-ROHITH0999-181717?style=for-the-badge&logo=github" alt="GitHub"></a>
+  <a href="https://leetcode.com/u/rohith12234/"><img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"></a>
+  <img src="https://komarev.com/ghpvc/?username=ROHITH0999&style=for-the-badge&color=0e75b6" alt="Profile views">
 </p>
 
 ---
 
-## About
+## `whoami`
 
 I'm a Data Scientist with a computer science background, interested in building useful AI-powered products and reliable software systems.
 
@@ -80,6 +80,14 @@ I'm a Data Scientist with a computer science background, interested in building 
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=ROHITH0999&hide_border=true&theme=transparent" alt="GitHub contribution streak">
+</p>
+
+---
+
+## Contribution Activity
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ROHITH0999/ROHITH0999/output/github-contribution-grid-snake-dark.svg" alt="Animated contribution snake">
 </p>
 
 ---
